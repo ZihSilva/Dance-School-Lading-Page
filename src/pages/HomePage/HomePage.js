@@ -16,11 +16,6 @@ export function HomePage(){
 {/* <PricingCard/> */}
 <Gallery/>
 <Testimonials/>
-<Footer />
-
-
 </>
-
-
     )
 }
