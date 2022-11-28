@@ -2,7 +2,7 @@
   💻<br>Portfolio - Zimarlen Silva
 </h1>
 
-![Project](src/images/HomePage.png)
+![Project](src/images/home.png)
 
 <h4 align="center"><a href="https://leapforwarddanceschool.netlify.app/">View project here</a></h4>
 
