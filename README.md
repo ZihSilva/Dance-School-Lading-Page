@@ -1,12 +1,12 @@
 <h1 align="center">
-  💻<br> Dance School Landing Page
+  💻<br> Landing Page for a Dance School
 </h1>
 
 ![Project](src/images/home.png)
 
 <h4 align="center"><a href="https://leapforwarddanceschool.netlify.app/">View project here</a></h4>
 
-# Responsive Dance School Landing Page
+# Responsive Landing Page
 
 - Landing page for a dance school.
 - Built using React, Javascript and, Tailwind.
