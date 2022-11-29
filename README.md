@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Dance School Landing Page
+  💻<br> Landing Page for a Dance School
 </h1>
 
 ![Project](src/images/landingpagegit.png)
