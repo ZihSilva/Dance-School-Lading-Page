@@ -2,7 +2,7 @@
   💻<br> Landing Page for a Dance School
 </h1>
 
-![Project](src/images/landingpagegit.png)
+![Project](src/images/landingpage.png)
 
 <h4 align="center"><a href="https://leapforwarddanceschool.netlify.app/">View project here</a></h4>
 
